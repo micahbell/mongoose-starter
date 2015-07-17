@@ -22,3 +22,4 @@ For the weekend, we'd like you to build an application that has full CRUD on boo
 ### Super Bonus
 
 Use AJAX and don't do a full page refresh when adding, updating or deleting books. Research `res.json` so that you can respond using json instead of ejs. Once you are rendering JSON, use AJAX to communicate with your server. 
+# mongoose-starter
